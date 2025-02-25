@@ -16,11 +16,12 @@ Hozzon létre egy osztályt a vásárlók tárolására. Minden vásárlónak is
 
         ·         Hozzon létre egy vásárlót **-500 Ft** keretösszeggel. Jelenítse meg a képernyőn a keletkezett kivétel szövegét!
         ·         Hozzon létre egy érvényes vásárlót, és írja ki az adatait! A vásárló adatai a következő formátumban jelenjenek meg:
+                                  Vásárló Valér (vasarlo.valer@sokatveszek.hu) -> 20000 Ft
 
-    **Vásárló Valér (vasarlo.valer@sokatveszek.hu) -> 20000 Ft**
+
 
 ---
-
+    
 ### 2. feladat
 
 A keretösszeg **pozitív értékkel növelhető**, és az osztály tartsa nyilván, hogy hányszor történt növelés.

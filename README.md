@@ -7,7 +7,7 @@ Hozzon létre egy osztályt a vásárlók tárolására. Minden vásárlónak is
 
 * A név módosítható legyen, az email cím és a keretösszeg viszont nem változtatható meg a vásárló létrehozása után közvetlenül.
 * A vásárló létrehozásakor az email címet és a keretösszeget kötelező megadni.
-* A vásárló nem jöhet létre negatív keretösszeggel. Ilyenkor a program dobjon kivételt (InvalidOperationException vagy saját NegativeBalanceException).
+* A vásárló nem jöhet létre negatív keretösszeggel. Ilyenkor a program dobjon kivételt (InvalidOperationException vagy saját NegativeBudgetException).
 * A nulla keretösszeg megengedett, de ebben az esetben a vásárló nem tud vásárolni.
 
 ## Feladatok

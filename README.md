@@ -44,8 +44,9 @@ Fejlessze ki a vásárlás lehetőségét a vásárló osztályban!
 
 **Feladatok:**
 
-* Vásároljon Valér 200 000 Ft értékben, és kapja el a keletkezett kivételt!
-* Vásároljon Valér 10 000 Ft értékben, majd írja ki a képernyőre Valér új keretösszegét!
+* Vásároljon Valér -1000 értékben és kapja el a kivételt 
+* Vásároljon Valér 200000 értékben, és kapja el a keletkezett kivételt!
+* Vásároljon Valér 10000  értékben, majd írja ki a képernyőre Valér új keretösszegét!
 
 ---
 

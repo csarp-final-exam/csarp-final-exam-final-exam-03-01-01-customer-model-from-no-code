@@ -23,7 +23,7 @@ Hozzon létre egy osztályt a vásárlók tárolására. Minden vásárlónak is
 
 A keretösszeg pozitív értékkel növelhető, és az osztály tartsa nyilván, hogy hányszor történt növelés. Nem megfelelő összeggel történt növelés esetén dobjon kivételt!
 
-**Feladat:**: Növelje Valér keretösszegét -5000 Ft-tal, majd 10 000 Ft-tal.
+**Feladat:**: Növelje Valér keretösszegét -2000 Ft-tal, 5000 Ft majd 10 000 Ft-tal.
 **Feladat:**:* Írja ki a képernyőre Valér objektumát használva a keretösszeg-növelések számát!
 
 A vásárlóról megállapítható legyen, hogy:
